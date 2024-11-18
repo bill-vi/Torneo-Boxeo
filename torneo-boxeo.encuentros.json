@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d21a"
+  },
+  "fecha": {
+    "$date": "2024-03-01T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "lugar": "Estadio El Campín, Bogotá",
+  "boxeador1_id": {
+    "$oid": "673ab210a7829146d500d218"
+  },
+  "boxeador2_id": {
+    "$oid": "673ab210a7829146d500d219"
+  },
+  "categoria_peso": "Peso welter",
+  "arbitro_id": {
+    "$oid": "673ab210a7829146d500d215"
+  },
+  "resultado": {
+    "ganador": "Carlos Muñoz",
+    "razon": "Decisión unánime"
+  }
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d218"
+  },
+  "nombre": "Carlos Muñoz",
+  "edad": 28,
+  "pais": "Colombia",
+  "categoria_peso": "Peso welter",
+  "registro_fecha": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "victorias": 10,
+  "derrotas": 2,
+  "entrenador_id": {
+    "$oid": "673ab210a7829146d500d217"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ab210a7829146d500d219"
+  },
+  "nombre": "Andrés Díaz",
+  "edad": 24,
+  "pais": "Colombia",
+  "categoria_peso": "Peso ligero",
+  "registro_fecha": {
+    "$date": "2024-02-01T00:00:00.000Z"
+  },
+  "victorias": 8,
+  "derrotas": 1,
+  "entrenador_id": {
+    "$oid": "673ab210a7829146d500d217"
+  }
+}]

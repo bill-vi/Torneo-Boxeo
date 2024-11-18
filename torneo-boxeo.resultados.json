@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d21b"
+  },
+  "encuentro_id": {
+    "$oid": "673ab210a7829146d500d21a"
+  },
+  "resultado": "Carlos Muñoz gana por decisión unánime",
+  "puntos_boxeador1": 115,
+  "puntos_boxeador2": 110
+}]

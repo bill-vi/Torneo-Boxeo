@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d21c"
+  },
+  "categoria_peso": "Peso welter",
+  "posiciones": [
+    {
+      "boxeador_id": {
+        "$oid": "673ab210a7829146d500d218"
+      },
+      "victorias": 10,
+      "derrotas": 2,
+      "empates": 0
+    },
+    {
+      "boxeador_id": {
+        "$oid": "673ab210a7829146d500d219"
+      },
+      "victorias": 8,
+      "derrotas": 1,
+      "empates": 0
+    }
+  ]
+}]

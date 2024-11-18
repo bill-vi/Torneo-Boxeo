@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d215"
+  },
+  "nombre": "Marcela Ramírez",
+  "edad": 38,
+  "experiencia": 12,
+  "licencia": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673ab210a7829146d500d216"
+  },
+  "nombre": "Luis Fernández",
+  "edad": 42,
+  "experiencia": 15,
+  "licencia": "Nacional"
+}]

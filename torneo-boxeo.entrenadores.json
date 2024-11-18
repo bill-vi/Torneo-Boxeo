@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "673ab210a7829146d500d217"
+  },
+  "nombre": "Jorge López",
+  "edad": 45,
+  "especializacion": "Tácticas de boxeo",
+  "equipo": "Equipo Colombia",
+  "experiencia": 20
+}]
